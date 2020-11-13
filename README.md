@@ -22,7 +22,7 @@ print 'source ~/src/git-semantic-commits/git-semantic-commits.plugin.zsh' >> ~/.
 
 ### UPDATED
 
-Commands added by @Kenan7
+Commands added by [@Kenan7](https://github.com/Kenan7)
 
 -  `gsfeat "commit-message-here"` -> `git commit -S -m 'feat: commit-message-here'`
 -  `gsdocs "commit-message-here"` -> `git commit -S -m 'docs: commit-message-here'`
@@ -33,7 +33,7 @@ Commands added by @Kenan7
 -  `gstest "commit-message-here"` -> `git commit -S -m 'test: commit-message-here'`
 -  `gslocalize "commit-message-here"` -> `git commit -S -m 'localize: commit-message-here'`
 
-Commands added by @alexrochas
+Commands added by [@alexrochas](https://github.com/alexrochas)
 
 -  `git feat "commit-message-here"` -> `git commit -m 'feat: commit-message-here'`
 -  `git docs "commit-message-here"` -> `git commit -m 'docs: commit-message-here'`
